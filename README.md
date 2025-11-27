@@ -9,7 +9,9 @@ A well written user story helps to:
 
 
 # User Story Standard Format:
-As a <user-type>, I want to <action to be performed>, so that <result or outcome>.
+As a (user-type), I want to (action to be performed), so that (result or outcome).
+
+User type or persona type is the type of user who will interact with your product. User type can be say an admin, sales head for say a b2b product. It can be anything from a delivery agent, user ordering food online etc for b2c. Long story short, user type is very specific to your product use case.  
 
 # Description
 
