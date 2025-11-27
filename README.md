@@ -6,3 +6,17 @@ A well written user story helps to:
 - estimate the effort via story points during product backlog refine SCRUM session
 - assign it to the correct engineer & QA (if required)
 - track the progress of the work by assigning it to a sprint.
+
+
+# User Story Standard Format:
+As a <user-type>, I want to <action to be performed>, so that <result or outcome>.
+
+# Description
+
+# Acceptance Criteria
+
+# Assignee
+
+# QA allocation.
+
+# Dev allocation
